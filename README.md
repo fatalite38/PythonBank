@@ -1,11 +1,6 @@
 <h1 align="center">Sistema de Banco Simples</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue" alt="Python Version">
-  <img src="https://img.shields.io/github/license/seu_usuario/sistema-banco-simples" alt="License">
-</p>
-
-<p align="center">
   <strong>Um sistema simples de banco desenvolvido em Python.</strong>
 </p>
 
